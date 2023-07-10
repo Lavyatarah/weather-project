@@ -2,7 +2,7 @@
 By Lavender
 -[Screenshot] (#screenshot)
 
-![image](./assets/images/weather screanshot.png)
+![image](./assets/images/weather screenshot.png)
 
  [Table of Contents]
 - [Description](#description)
@@ -40,7 +40,7 @@ As a user of the application,you will be able to :
 
 
 ## Live Link
-- Click this link to view the live application https://github.com/
+- Click this link to view the live application  https://lavyatarah.github.io/weather-project/
 
 
 ## Technology  Used

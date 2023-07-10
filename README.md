@@ -2,7 +2,7 @@
 By Lavender
 -[Screenshot] (#screenshot)
 
-![image](./assets/images/)
+![image](./assets/images/weather screanshot.png)
 
  [Table of Contents]
 - [Description](#description)
@@ -33,7 +33,7 @@ As a user of the application,you will be able to :
 
  ## Installation Process
  ****
-* Clone to the repo : git clone https://github.com/
+* Clone to the repo : git clone https://github.com/Lavyatarah/weather-project
 * Unzip the folder
 * Open index.html on browser
 * Request access to location
